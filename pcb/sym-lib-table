@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "macropad")(type "KiCad")(uri "${KIPRJMOD}/macropad.kicad_sym")(options "")(descr ""))
+  (lib (name "pico")(type "Legacy")(uri "${KIPRJMOD}/pico_rp2040.lib")(options "")(descr ""))
+)
